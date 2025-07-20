@@ -1,7 +1,7 @@
 apiVersion: template.openshift.io/v1
 kind: Template
 metadata:
-  name: redis-template-gitops2
+  name: redis-template-gitops
   annotations:
     description: "Description"
     iconClass: "icon-redis"
